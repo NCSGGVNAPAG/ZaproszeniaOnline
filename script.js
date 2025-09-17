@@ -8,7 +8,7 @@ const sidebar = document.querySelector("[data-sidebar]");
 const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 
 sidebarBtn.addEventListener("click", function() {elementToggleFunc(sidebar); })
-
+/*
 //Activating Modal-testimonial
 
 const testimonialsItem = document.querySelectorAll('[data-testimonials-item]');
@@ -40,7 +40,7 @@ for (let i = 0; i < testimonialsItem.length; i++) {
 
 modalCloseBtn.addEventListener('click', testimonialsModalFunc);
 overlay.addEventListener('click', testimonialsModalFunc);
-
+*/
 //Activating Filter Select and filtering options
 
 const select = document.querySelector('[data-select]');
