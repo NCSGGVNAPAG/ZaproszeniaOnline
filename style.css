@@ -611,6 +611,7 @@ article { display: none; }
     overscroll-behavior-inline: contain;
     scroll-snap-type: inline mandatory;
     scroll-padding-inline: 25px;
+    align-items: center;
 }
 
 .clients-item {
