@@ -93,7 +93,7 @@ for (let i = 0; i < filterBtn.length; i++) {
 
     })
 }
-
+/*
 // Enabling Contact Form
 
 const form = document.querySelector('[data-form]');
@@ -109,7 +109,7 @@ for(let i = 0; i < formInputs.length; i++) {
         }
     })
 }
-
+*/
 // Enabling Page Navigation 
 
 const navigationLinks = document.querySelectorAll('[data-nav-link]');
